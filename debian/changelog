@@ -1,3 +1,9 @@
+e17 (0.17.3-1) experimental; urgency=low
+
+  * Imported Upstream version 0.17.3
+
+ -- Jordan Webb <jordan.webb@gmail.com>  Wed, 24 Jul 2013 03:37:11 +0000
+
 e17 (0.17.1-2) unstable; urgency=low
 
   * debian/NEWS: document the release configuration file format change
